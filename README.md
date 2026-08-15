@@ -126,19 +126,48 @@ This project demonstrates practical understanding of the following ServiceNow co
 
 ## Screenshots
 
-Screenshots demonstrating the ServiceNow Incident Lifecycle Automation implementation are available in the **Screenshots** folder.
+## Screenshots
 
-The screenshots demonstrate different parts of the project, including:
+### Configuration Items List
 
-* Incident details
-* Incident lifecycle
-* Service and Service Offering
-* Configuration Item
-* Related Records
-* Child Incidents
-* Knowledge
-* SLA information
-* Resolution details
+![Configuration Items List](./configuration-items-list.png)
+
+### Service Offerings
+
+![Service Offerings](./service-offerings.png)
+
+### Service Offering Details
+
+![Service Offering Details](./service-offering-details.png)
+
+### Configuration Item Details
+
+![Configuration Item Details](./configuration-item-details.png)
+
+### Incident Details
+
+![Incident Details](./incident-details.png)
+
+### Related Records
+
+![Related Records](./related-records.png)
+
+### Knowledge Article
+
+![Knowledge Article](./knowledge-article.png)
+
+### Overview
+
+![Overview](./overview.png)
+
+### Summary
+
+![Summary](./summary.png)
+
+### Impact Summary
+
+![Impact Summary](./impact-summary.png)
+
 
 ## Project Outcome
 
